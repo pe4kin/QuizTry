@@ -3,8 +3,12 @@
   <head>
   </head>
   <body>
+<<<<<<< HEAD
     <p>
-      Hello merge !
+      Hi
     </p>
+=======
+    <p></p>
+>>>>>>> testing
   </body>
 </html>
